@@ -47,7 +47,7 @@ class _PetChatbotState extends State<PetChatbot> with TickerProviderStateMixin {
     "How can I request a medication refill?"
   ];
 
-  final String _apiKey = "AIzaSyCAVdwUwDcOJnrdt9ACZxwjykb55Jrnph4";
+  final String _apiKey = "";
   final Color clinicGreen = const Color(0xFF2E7D32);
 
   @override
