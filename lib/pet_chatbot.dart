@@ -46,8 +46,6 @@ class _PetChatbotState extends State<PetChatbot> with TickerProviderStateMixin {
     "What are your hours and location?",
     "How can I request a medication refill?"
   ];
-
-  final String _apiKey = "";
   final Color clinicGreen = const Color(0xFF2E7D32);
 
   @override
